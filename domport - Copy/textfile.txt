@@ -1,0 +1,55 @@
+    <!------------------------ Font-Awesome Link ------------------------>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/brands.min.css"/>
+
+
+    <!------------------------ Swiper File Link ------------------------>
+    <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
+
+    <!------------------------ Boxicon Link ------------------------>
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"> 
+
+    <!------------------------ Favicon Link ------------------------>
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="images/favicon/site.webmanifest">
+
+    <!------------------------ Swiper.js Link ------------------------>
+    <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+    <!------------------------ MainScript File ------------------------>
+    <script src="mainscript.js"></script>
+
+TITLE: DomPort | Portfolio
+
+/*==================== 1. GOOGLE FONTS ====================*/
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Spectral:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+colors:
+    --primary: #0099ff;
+    --secondary: #a3d8fc; 
+    --color: #DEFCF9;
+    --black: #002f56;
+    --box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.2);
+    --border-radius: 30px 0 30px 0;
+
+close btn: <i class='bx bx-x'></i> 
+web design: <i class="fa fa-layer-group icon"></i>
+web development:  <i class="fa fa-compass-drafting icon"></i>
+mobile development: <i class="fa fa-mobile icon"></i>
+ui/ux design: <i class="fab fa-react icon"></i>
+3d modeling: <i class="fa fa-users-viewfinder icon"></i>
+cRM development: <i class="fa fa-sliders icon"></i>
+link to project: <i class="fa fa-search"></i>
+experience: <i class="fas fa-briefcase icon"></i>
+education: <i class="fas fa-graduation-cap icon"></i>
+left qoute: <i class="fas fa-quote-left"></i>
+right qoute: <i class="fas fa-quote-right"></i>
+arrow left: <i class="fas fa-arrow-left"></i>
+arrow right: <i class="fas fa-arrow-right"></i> 
+phone: <i class="fas fa-phone-alt"></i>
+email: <i class="fas fa-paper-plane"></i>
+website:<i class="fas fa-globe"></i>
+social icons:           <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
